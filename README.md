@@ -3,6 +3,6 @@ In this project, I created a LSTM forecasting model to accurately forecast futur
 
 Data Source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-Additional Reference:
+Additional Reference:  
 https://towardsdatascience.com/lstm-framework-for-univariate-time-series-prediction-d9e7252699e
 https://www.youtube.com/watch?v=c0k-YLQGKjY
